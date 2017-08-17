@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Orange</title>
+<link rel="stylesheet" href="styles.css">
+<table><tr><td><img class="logo" src="C:/Users/venu/Desktop/WP P/Images/orange.jpg" height="75" width="75" alt="Edit"/></td>
+<td><h1><b>Orange Solutions</h1></td></table>
+</head>
+<body>
+<div>
+<p>Thank you for applying we will  contact you as soon as possible</p>
+<a href="Main.html">Go to main page</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Orange</title>
+<link rel="stylesheet" href="styles.css">
+<table><tr><td><img class="logo" src="C:/Users/venu/Desktop/WP P/Images/orange.jpg" height="75" width="75" alt="Edit"/></td>
+<td><h1><b>Orange Solutions</h1></td></table>
+</head>
+<body>
+<div>
+<nav class="main">
+<ul class="right">
+<a href="Main.html">Home</a> |
+<a href="Products.html">Products</a> |
+<a href="Services.html">Services</a> |
+<a href="Support.html">Support</a> |
+<a href="Careers.html">Careers</a> |
+<a href="location.html">Location</a> |
+<a href="About Us.html">About Us</a>
+</ul>
+</nav>
+</div>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Orange-Locations</title>
+<link rel="stylesheet" href="styles.css">
+<div class="header">
+        <div class="image"></div><div class="text">Orange Solutions</div>
+ </div>
+ </head>
+<body>
+<ul id="drop-nav">
+  <li><a href="Main.html">Home</a></li>
+  <li><a href="Products.html">Products</a>
+    <ul>
+      <li><a href="Products.html#ecommerce">E-Commerce</a></li>
+      <li><a href="Products.html#banking">Banking</a></li>
+      <li><a href="Products.html#software">Software</a></li>
+      <li><a href="Products.html#bigData">Big-data</a></li>
+      <li><a href="Products.html#itSolution">IT-solution</a></li>
+</ul>
+  </li>
+  <li><a href="Services.html">Services</a>
+    <ul>
+      <li><a href="Services.html#consulting service">Consulting Service</a></li>
+      <li><a href="Services.html#outsourcing service">Outsourcing Service</a></li>
+      <li><a href="Services.html#Technology services">Technology Service</a></li>
+    </ul>
+  </li>
+  <li><a href="Support.html">Support</a>
+    <ul>
+      <li><a href="Support.html#customer support">Customer Support</a></li>
+      <li><a href="Support.html#email">Email us</a></li>
+      <li><a href="Support.html#chat">Chat</a></li>
+    </ul>
+  </li>
+  <li><a href="Careers.html">Careers</a> </li>
+  <li><a href="location.html">Location</a></li>
+  <li><a href="About Us.html">About Us</a></li>
+</ul><br><br><hr class="mainhr" >
+<main>
+<div class="location">
+<p><b>Orange (OFSS) BPO Services Limited<br>
+Infinity Tower A, 3rd Floor<br>
+Cyber City, Phase II<br>
+Dallas - 75201<br>
+Texas <br>
+Phone: +13135068424<br>
+Fax: +91 124 410 7590<p><hr>
+
+<p><b>Orange India Private Limited<br>
+Orange Technology Park<br>
+India Development Centre<br>
+No. 3, Bannerghatta Road<br>
+Bangalore - 560 029<br>
+Karnataka<br>
+Phone: +91 80 4107 6000<br>
+Fax: +91 80 2552 6124<p><hr>
+
+<p><b>Orange India Private Limited<br>
+Prestige Technology Park<br>
+Venus Block 2C, Levels G, 1-9<br>
+Survey #29, Sarjapur Maratahalli Ring Road<br>
+Sanjose<br>
+california - 95814<br>
+
+Phone: +1 361 228 6883<br>
+Fax: +91 80 4029 6475<p>
+</div>
+</div>
+ <footer>
+ <section class="copyright">
+   Copyright &copy; 2016 Orange solutions &nbsp;<br/>
+   The website is best experienced on the following version (or higher) of Chrome 31, Firefox 26, Safari 6 and Internet Explorer 9 browsers
+	</section>
+ </footer>
+</main>
+</body>
+</html>
